@@ -36,4 +36,4 @@ Note 2: Pour les deux premiers folios de l'Apologético, f. []1r-v et f. []2r-v,
 
 Note 3: La valeur .png ou .jpg, qui doit obligatoirement apparaître en minuscules, peut changer en fonction du format des images.
 
-Note 4: L'étape 3 a été nécessaire pour résoudre les cas où la recherche de l'étape 2 ne trouvait pas tous les <pb>. Cela arrive quand un saut de ligne est intercalé entre "<pb" et "n=". Frédéric: comment peut-on résoudre cela pour améliorer la recherche -dans ce cas comme dans beaucoup d'autres-? Merci d'avance.
+Note 4: L'étape 3 a été nécessaire pour résoudre les cas où la recherche de l'étape 2 ne trouvait pas tous les <pb>. Cela arrive quand un saut de ligne est intercalé entre "<pb" et "n=". Pour éviter ce problème, il est souhaitable de configurer son éditeur XML de façon à ce qu’il ne coupe pas les lignes dans un paragraphe. Par exemple dans Oxygen : Préférences / Éditeur / Formatage / Longueur de ligne, inscrire un nombre plus élevé que 100, par exemple 2000.
